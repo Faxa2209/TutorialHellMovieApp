@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TutorialHellMovieApp/static/css/main.7190fb26.chunk.css",
+    "main.js": "/TutorialHellMovieApp/static/js/main.be770e6c.chunk.js",
+    "main.js.map": "/TutorialHellMovieApp/static/js/main.be770e6c.chunk.js.map",
+    "runtime-main.js": "/TutorialHellMovieApp/static/js/runtime-main.26d9ff7d.js",
+    "runtime-main.js.map": "/TutorialHellMovieApp/static/js/runtime-main.26d9ff7d.js.map",
+    "static/js/2.cc2bb2ef.chunk.js": "/TutorialHellMovieApp/static/js/2.cc2bb2ef.chunk.js",
+    "static/js/2.cc2bb2ef.chunk.js.map": "/TutorialHellMovieApp/static/js/2.cc2bb2ef.chunk.js.map",
+    "index.html": "/TutorialHellMovieApp/index.html",
+    "static/css/main.7190fb26.chunk.css.map": "/TutorialHellMovieApp/static/css/main.7190fb26.chunk.css.map",
+    "static/js/2.cc2bb2ef.chunk.js.LICENSE.txt": "/TutorialHellMovieApp/static/js/2.cc2bb2ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26d9ff7d.js",
+    "static/js/2.cc2bb2ef.chunk.js",
+    "static/css/main.7190fb26.chunk.css",
+    "static/js/main.be770e6c.chunk.js"
+  ]
+}
